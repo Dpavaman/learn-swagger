@@ -11,5 +11,5 @@ In this repository I have written some basic backed routes with the help of expr
     - visit your [localhost api-docs route](http://localhost:4000/api-docs/)
 
 **That's it**
-    > Play around with the documentation implementation :joy:
+    > Play around with the documentation implementation :smiley:
 
